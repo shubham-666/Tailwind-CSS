@@ -7,4 +7,5 @@
 
 
 
- Live[Demo](https://app.netlify.com/sites/tailwind-css-randam-page/)
+
+ Live[Demo](https://tailwind-css-randam-page.netlify.app/)
